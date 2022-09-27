@@ -12,9 +12,9 @@
 - 🔭 I’m currently working on [**my web-site**](https://akashdip2001.github.io/linktree/)
 -------------------------------------------------------------------------------------------------------------------------------
 
-https://akashdip2001.github.io/website-2/About_e6843420070625d7049861cecdfdc6cefbbe2dbfcaf29f22a63f03c3a64a00da.html
-
 ![404](https://user-images.githubusercontent.com/81384987/192611390-0a263082-893a-4a76-a918-39f04cc96ae6.png)
+
+https://akashdip2001.github.io/website-2/About_e6843420070625d7049861cecdfdc6cefbbe2dbfcaf29f22a63f03c3a64a00da.html
 -------------------------------------------------------------------------------------------------------------------------------
 
 
